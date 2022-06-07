@@ -5,4 +5,4 @@
 
 ### 其他
 - [app隐私政策](https://funlabs.github.io/privacy.html)
-- [privacy policy english](https://funlabs.github.io/privacy_global.html)
+- [privacy policy english version](https://funlabs.github.io/privacy_global.html)
