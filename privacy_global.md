@@ -4,7 +4,7 @@ This application respects and protects the personal privacy of all users who use
 
 ### Scope of application
 
-1. When you use the services of this application, the information that this application automatically receives and records, including but not limited to data such as language used, date and time of access
+1. When you use the services of this application, the information that this application automatically receives and records, including but not limited to data such as language used, date and time of access.
 
 ### Information use
 
