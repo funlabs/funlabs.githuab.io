@@ -4,5 +4,5 @@
 - 如果遇到问题，请联系funlabs@sina.cn
 
 ### 其他
-- [app隐私政策](https://funlabs.github.io/privacy.html)
-- [privacy policy english version](https://funlabs.github.io/privacy_global.html)
+- [隐私政策](https://funlabs.github.io/privacy.html)
+- [Privacy Policy(English)](https://funlabs.github.io/privacy_global.html)
